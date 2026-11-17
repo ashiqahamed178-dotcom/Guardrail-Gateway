@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+scikit-learn
+joblib
+pandas
+pyarrow
+huggingface_hub
